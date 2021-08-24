@@ -1,5 +1,5 @@
 # javaScript-Desafio-1-em-JavaScript
-FizzBuzz em JavaScript 
+#### FizzBuzz em JavaScript 
 
 ## Layout inicial 
 Entre com um número.
