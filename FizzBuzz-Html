@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type= "text/css" href="Stilo.css/Stilo.css">
+    <title>FizzBuzz</title>
+    <script src="FizzBuzz.js"></script>
+</head>
+<body>
+    
+    <h2>FizzBuzz</h2>
+
+    <div class="rev-style">
+      
+           <label><span>Entre com um numero:</span><input id="Fizzvalue" type="number" name="fizz" value="3"></label><br><br>
+           <label><span>Entre com um numero:</span><input id="Buzzvalue" type="number" name="buzz" value="5"></label><br>
+          <label><span></span><input type="submit" onclick="Buscar()" value="Buscar" id="buton"></label><br>
+           <label><span>Resultado:</span></label>
+           <p id="Resultado"></p>
+        
+    </div>
+   
+
+
+</body>
+   
+</html>
